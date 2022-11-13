@@ -1,7 +1,7 @@
 <?php
 
 #------------------------------------------------------------------------------
-define('DATAFILE_NAME'  , '/home/pi/Share/Data/jrw/Checklists/BackpackingData.xml');
+define('DATAFILE_NAME'  , '/home/jrwltr/Data/jrw/CheckLists/BackpackingData.xml');
 define('BACKUPFILE_NAME', 'temp/BackpackingData.xml~');
 
 #------------------------------------------------------------------------------
